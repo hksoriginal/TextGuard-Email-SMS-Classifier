@@ -1,6 +1,7 @@
 # TextGuard-Email-SMS-Classifier
+### AppLink : https://textguard.herokuapp.com/
 Dataset: https://www.kaggle.com/uciml/sms-spam-collection-dataset
-Link : https://textguard.herokuapp.com/
+
 TextGuard is a Streatmil WebApp that helps to classify input text as Spam or not spam
 # Snapshots
 ![image](https://user-images.githubusercontent.com/44989568/179388134-558f5a91-fded-42fc-be2b-1bcfed5dce32.png)
